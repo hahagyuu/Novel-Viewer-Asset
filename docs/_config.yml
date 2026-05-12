@@ -1,0 +1,8 @@
+title: Novel Viewer Asset
+description: A simple and lightweight game engine asset for displaying novels.
+
+# turtlebot4と同じ「Read the Docs」風のテーマを指定
+remote_theme: clearpathrobotics/jekyll-rtd-theme
+
+plugins:
+  - jekyll-remote-theme
