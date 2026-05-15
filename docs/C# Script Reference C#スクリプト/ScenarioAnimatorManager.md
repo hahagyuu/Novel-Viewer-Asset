@@ -1,3 +1,7 @@
+---
+sort: 5
+---
+
 # ScenarioAnimatorManager
 
 シーン内のキャラクターやカメラの Animator を一元管理し、シナリオ進行とアニメーションの同期を取るシステムです。
