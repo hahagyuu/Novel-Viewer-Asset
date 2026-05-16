@@ -4,7 +4,7 @@ on:
   push:
     # `main` ブランチにプッシュした時に自動で実行します
     # ※もし `master` ブランチを使っている場合はここを `master` に変更してください
-    branches: ["main"]
+    branches: ["release"]
   workflow_dispatch:
 
 permissions:
